@@ -1,4 +1,4 @@
-DCGParser for following grammer:
+DCGParser for following grammer: Left recursion is also handled in the prolog program
 
 P ::= K. 
 K ::= begin D; C end 
